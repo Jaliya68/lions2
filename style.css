@@ -1,0 +1,12 @@
+table, tr, td {
+    border: 1px solid black;
+}
+table {
+    background-color: aqua;
+}
+table {
+    font-size: larger;
+}
+table, tr, td {
+    background-size: 20px;
+}
