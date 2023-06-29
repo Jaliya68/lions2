@@ -7,6 +7,27 @@ table {
 table {
     font-size: larger;
 }
-table, tr, td {
-    background-size: 20px;
+#img {
+    padding: 200px;
+    height: 300px;
+    border-image-width: 20px;
+}
+h3 {
+    font-size: 30px;
+    font-style: italic;
+}
+h3 {
+    border-bottom: double;
+    padding: 200px;
+}
+button {
+    padding: 20px;
+   font-size: 30px;
+   inline-size: 200px;
+}
+img {
+    padding: 200px;
+    height: 300px;
+    inline-size: 20px;
+    animation-play-state: paused;
 }
